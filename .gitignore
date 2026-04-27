@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# MATLAB autosave / temporary files
+*.asv
+*.m~
+*.mex*
+slprj/
+*.slxc
+
+# Large generated data
+*.mat
+
+# Optional: ignore generated result folders
+# Uncomment the next line if you do not want to upload results
+# results/
+
+# LaTeX / paper build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Python cache, if any
+__pycache__/
+*.pyc
+*.fig
+*.mat
