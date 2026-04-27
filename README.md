@@ -2,7 +2,7 @@
 
 MATLAB reference implementations for two controllers for EF-responsive T4 regulation:
 
-- **APID**: windowed adaptive PID with **band-lock** holding.
+- **APID**: sampled-data adaptive PID with **band-lock** holding.
 - **RAPID**: robust adaptive PID with **multi-perturbation robustness** (CVaR/mean blending).
 
 ## Repository layout
