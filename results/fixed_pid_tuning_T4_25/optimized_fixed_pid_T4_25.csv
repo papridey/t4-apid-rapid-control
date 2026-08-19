@@ -1,0 +1,2 @@
+Setpoint,Kp_star,Ki_star,Kd_star,TrainingObjective,TrackingCost,AmplitudeCost,A_Saturation_pct,beta_ov,rhoA
+25,0.0217880633182057,1.0874325618904e-05,1.93637189406661e-08,1874894.03259188,1874894.03242263,0.00016925,75.609756097561,3,0.0005

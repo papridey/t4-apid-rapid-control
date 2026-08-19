@@ -1,0 +1,3 @@
+Controller,RMSE_mean,RMSE_std,IAE_mean,IAE_std,Overshoot_mean,Overshoot_std,TimeIn10_mean,TimeIn10_std,ControlEnergy_mean,ControlEnergy_std
+Optimized fixed PID,19.7623643840395,0,1580.24686118028,0,0,0,0,0,22.6433221617307,0
+APID,9.79212452075303,0,527.896076527956,0,0,0,51.219512195122,0,0.51268419384762,0
